@@ -47,6 +47,52 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 5. Membuat Algoritma dalam Bentuk Flow Chart
   Saya sudah membuat algoritma dalam bentuk flow https://drive.google.com/file/d/1UL0zYHFzwA6HRTRfMMRjNCeLljz9_h4t/view?usp=drivesdk 
 > ## 6. Mencoba Scratch Bahasa Indonesia
+> ## 7. Mencoba Algoritma Bubble Sort Menggunakan Java
+> ## 8. Mencoba dan Mendemonstrasikan Penggunaan IDE
+> ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Hacker Rank
+> ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser
+> ## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.)
+> ## 12. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.)
+> ## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML
+> ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL)
+> ## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain
+> ## 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript
+> ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML
+> ## 18. Mencoba Pembuatan File JSON
+> ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML
+> ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service
+> ## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman
+> ## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome)
+> ## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure)
+> ## 24. Mencoba Penggunaan Content Management System (Wordpress)
+> ## 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video)
+> ## 26. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v]
+> ## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v]
+> ## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]
+> ## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v] 
+> ## 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v]
+> ## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v]
+> ## 32. Mencoba Data Visualization Dengan Tools [v]
+> ## 33. Mencoba Data Visualization Dengan Code [v]
+> ## 34. Mendaftar dan Mencoba Eksplorasi HuggingFace [v]
+> ## 35. Mendaftar dan Mencoba Eksplorasi Kaggle [v]
+> ## 36. Mencoba Protokol Komunikasi IoT (MQTT) [v]
+> ## 37. Mencoba Memproses File CSV Menggunakan Google Colab [v]
+> ## 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v]
+> ## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] 
+> ## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v]
+> ## 41. Menonton Video Presentasi Tugas Akhir Informatika
+> ## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati 
+> ## 43. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) 
+> ## 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)
+> ## 45. Eksplorasi Lowongan Pekerjaan IT
+> ## 46. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)
+> ## 47. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh
+> ## 48. Eksplorasi Top Github Project yang Diminati
+> ## 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika
+> ## 50. Membangun Profil Github Page
+> ## 51. Mengikuti Workshop / Event / Course Terkait IT
+> ## 52. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika
   
 
 
