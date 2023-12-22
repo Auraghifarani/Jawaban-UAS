@@ -90,6 +90,7 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 43. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo)
   Saya sudah melakukan eksplorasi belajar bahasa Inggris Duolingo dan belajar dari aplikasi tersebut. Berikut akun Duolimgo saya https://www.duolingo.com/profile/AuraGhifar?via=share_profile_link. 
 > ## 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)
+  Saya sudah melakukan eksplorasi tools untuk belajar bahasa Inggris dengan aplikasi HelloTalk. Berikut nama akun saya @talk_auraghifara
 > ## 45. Eksplorasi Lowongan Pekerjaan IT
 > ## 46. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)
 > ## 47. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh
