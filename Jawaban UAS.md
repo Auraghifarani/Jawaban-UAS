@@ -85,17 +85,21 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati
   Saya sudah melakukan eksplorasiterhadap profesi terkait Informatika, termasuk dari gambar yang pernah dikirimkan oleh Bapak Insan 
   ![Profesi terkait Teknik Informatika](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/7df89bf8-5516-4d5d-9d27-1adcb959f385)
-  Dari hasil eksplorasi, profesi yang saya minati diantaranya 
-> ## 43. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) 
+  Dari hasil eksplorasi, profesi yang saya minati diantaranya menjadi seorang data analyst dan data scientist. Saya juga memiliki cita - cita untuk   
+  mengembangkan teknologi dalam bidang kesehatan maupun kedokteran. 
+> ## 43. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo)
+  Saya sudah melakukan eksplorasi belajar bahasa Inggris Duolingo dan belajar dari aplikasi tersebut. Berikut akun Duolimgo saya https://www.duolingo.com/profile/AuraGhifar?via=share_profile_link. 
 > ## 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)
 > ## 45. Eksplorasi Lowongan Pekerjaan IT
 > ## 46. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)
 > ## 47. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh
 > ## 48. Eksplorasi Top Github Project yang Diminati
 > ## 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika
+  Saya sudah membangun profil Linkedin dan mengikuti akun - akun inspiratif bertema informatika. Berikut link profil saya https://www.linkedin.com/in/aura-ghifarani-5051612a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 > ## 50. Membangun Profil Github Page
 > ## 51. Mengikuti Workshop / Event / Course Terkait IT
 > ## 52. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika
+  Saya sudah membaca sebuah buku bertema informatika, yaitu sebuah novel berjudul "Destination Jakarta 2045" karya Mahuri yang menceritakan tentang sejumlah penumpang yang mengalami perjalanan lintas waktu saat menaiki pesawat. 
   
 
 
