@@ -82,7 +82,10 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] 
 > ## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v]
 > ## 41. Menonton Video Presentasi Tugas Akhir Informatika
-> ## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati 
+> ## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati
+  Saya sudah melakukan eksplorasiterhadap profesi terkait Informatika, termasuk dari gambar yang pernah dikirimkan oleh Bapak Insan 
+  ![Profesi terkait Teknik Informatika](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/7df89bf8-5516-4d5d-9d27-1adcb959f385)
+  Dari hasil eksplorasi, profesi yang saya minati diantaranya 
 > ## 43. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) 
 > ## 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)
 > ## 45. Eksplorasi Lowongan Pekerjaan IT
