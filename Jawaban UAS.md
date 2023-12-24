@@ -92,15 +92,23 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk)
   Saya sudah melakukan eksplorasi tools untuk belajar bahasa Inggris dengan aplikasi HelloTalk. Berikut nama akun saya @talk_auraghifara
 > ## 45. Eksplorasi Lowongan Pekerjaan IT
+  Saya sudah melakukan eksplorasi lowongan pekerjaan IT melalui berbagai media yaitu linkedln, instagram, google, dan twitter. Saya semakin tertarik untuk menjadi data analyst. Saat ini banyak lowongan pekerjaan yang membutuhkan seorang IT support, Staff IT, Software developer, analis sistem, administrator jaringan, information security, data analyst, konsultan IT, game developer, web developer, database administrator, dan UX designer.
 > ## 46. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com)
+  Saya sudah melakuka eksplorasi lowongan freelancer IT lewat freelancer.com. 
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/0b54e6c7-2844-43a6-b205-530ce5f4fe6c)
 > ## 47. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh
+  Saya  sudah melakukan eksplorasi pada Roadmap.sh dan topik yang saya minati adalah AI dan data scientist. 
+  ![ai-data-scientist_page-0001](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/c6bb00d0-9987-4aba-b972-b5163b4da90b)
 > ## 48. Eksplorasi Top Github Project yang Diminati
 > ## 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika
   Saya sudah membangun profil Linkedin dan mengikuti akun - akun inspiratif bertema informatika. Berikut link profil saya https://www.linkedin.com/in/aura-ghifarani-5051612a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 > ## 50. Membangun Profil Github Page
 > ## 51. Mengikuti Workshop / Event / Course Terkait IT
+  Saya sudah mengikuti sebuah seminar yang diadakan oleh ASIAN TECHNOLOGY SOLUTIONS atau PT. Asiatek Solusi Indonesia. Perusahaan ini bergerak dalam bidang Teknologi Informasi. Berikut foto saya saat mengikuti seminar :
+  ![WhatsApp Image 2023-12-24 at 21 22 30_44c212a4](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/d80f229f-38cc-4ac1-a028-c3b10dfdf735)
+  ![WhatsApp Image 2023-12-24 at 21 22 30_80e22e9e](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/4e62e776-c04c-4b55-af73-43417a2bdc3d)
 > ## 52. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika
-  Saya sudah membaca sebuah buku bertema informatika, yaitu sebuah novel berjudul "Destination Jakarta 2045" karya Mahuri yang menceritakan tentang sejumlah penumpang yang mengalami perjalanan lintas waktu saat menaiki pesawat. 
+  Saya sudah membaca sebuah buku bertema informatika, yaitu sebuah novel berjudul "Destination Jakarta 2045" karya Mahuri yang menceritakan tentang sejumlah penumpang yang mengalami perjalanan lintas waktu saat menaiki pesawat. Cerita ini sangat membuat saya bersemangat dan meningkatkan rasa penasaran saya terhadap teknologi. Dalam cerita, tokoh pemeran utama menciptakan sebuah mesin waktu agar dia bisa kembali ke asalnya seperti semula. 
   
 
 
