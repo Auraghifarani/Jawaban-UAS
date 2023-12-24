@@ -76,6 +76,9 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 33. Mencoba Data Visualization Dengan Code [v]
 > ## 34. Mendaftar dan Mencoba Eksplorasi HuggingFace [v]
 > ## 35. Mendaftar dan Mencoba Eksplorasi Kaggle [v]
+  Saya sudah mendaftar dan mencoba eksplorasi kaggle
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/fe278641-0114-4dcd-bdf8-799137cc9de8)
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/b41586e4-9670-4d8d-aca9-e76c5b8c79fb)
 > ## 36. Mencoba Protokol Komunikasi IoT (MQTT) [v]
 > ## 37. Mencoba Memproses File CSV Menggunakan Google Colab [v]
 > ## 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v]
