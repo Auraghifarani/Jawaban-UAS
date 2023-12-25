@@ -47,7 +47,11 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 5. Membuat Algoritma dalam Bentuk Flow Chart
   Saya sudah membuat algoritma dalam bentuk flow https://drive.google.com/file/d/1UL0zYHFzwA6HRTRfMMRjNCeLljz9_h4t/view?usp=drivesdk 
 > ## 6. Mencoba Scratch Bahasa Indonesia
+  Saya sudah mencoba Scratch 
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/fd53ec2d-fcf5-4081-af2c-7b3bd18003a2)
 > ## 7. Mencoba Algoritma Bubble Sort Menggunakan Java
+  Saya sudah mencoba Algoritma Bubble Sort menggunakan java 
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/ca16ed82-4d53-4738-8612-3925c78321c2)
 > ## 8. Mencoba dan Mendemonstrasikan Penggunaan IDE
 > ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Hacker Rank
 > ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser
