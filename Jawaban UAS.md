@@ -54,6 +54,7 @@ Beberapa konsep utama dari computational thinking yaitu :
   ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/ca16ed82-4d53-4738-8612-3925c78321c2)
 > ## 8. Mencoba dan Mendemonstrasikan Penggunaan IDE
 > ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Hacker Rank
+  - https://www.hackerrank.com/profile/ghifarania
 > ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser
 > ## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.)
 > ## 12. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.)
