@@ -64,6 +64,7 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript
 > ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML
 > ## 18. Mencoba Pembuatan File JSON
+  https://github.com/Auraghifarani/Jawaban-UAS/blob/main/file.json
 > ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML
 > ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service
 > ## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman
