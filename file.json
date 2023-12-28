@@ -1,0 +1,9 @@
+{
+  "nama": "Aura Ghifarani",
+  "umur": 18,
+  "alamat": {
+    "jalan": "Kp. Lanbau",
+    "kota": "Bogor"
+  },
+  "hobi": ["mendengar musik", "membaca"]
+}
