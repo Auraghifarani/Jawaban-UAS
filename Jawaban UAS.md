@@ -81,6 +81,7 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 32. Mencoba Data Visualization Dengan Tools [v]
 > ## 33. Mencoba Data Visualization Dengan Code [v]
 > ## 34. Mendaftar dan Mencoba Eksplorasi HuggingFace [v]
+  https://huggingface.co/aura15
 > ## 35. Mendaftar dan Mencoba Eksplorasi Kaggle [v]
   Saya sudah mendaftar dan mencoba eksplorasi kaggle
   ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/fe278641-0114-4dcd-bdf8-799137cc9de8)
@@ -112,6 +113,7 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika
   Saya sudah membangun profil Linkedin dan mengikuti akun - akun inspiratif bertema informatika. Berikut link profil saya https://www.linkedin.com/in/aura-ghifarani-5051612a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 > ## 50. Membangun Profil Github Page
+  https://github.com/Auraghifarani/Auraghifarani
 > ## 51. Mengikuti Workshop / Event / Course Terkait IT
   Saya sudah mengikuti sebuah seminar yang diadakan oleh ASIAN TECHNOLOGY SOLUTIONS atau PT. Asiatek Solusi Indonesia. Perusahaan ini bergerak dalam bidang Teknologi Informasi. Berikut foto saya saat mengikuti seminar :
   ![WhatsApp Image 2023-12-24 at 21 22 30_44c212a4](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/d80f229f-38cc-4ac1-a028-c3b10dfdf735)
