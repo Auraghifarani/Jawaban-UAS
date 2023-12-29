@@ -73,6 +73,8 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 24. Mencoba Penggunaan Content Management System (Wordpress)
 > ## 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video)
 > ## 26. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v]
+  Saya biasanya menggunakan Capcut dan Lightroom
+  ![Aurakuuu](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/add926a2-b19e-41e7-a91e-ed26023a25a5)
 > ## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v]
 > ## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]
 > ## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v] 
