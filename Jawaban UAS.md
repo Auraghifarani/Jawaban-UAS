@@ -61,6 +61,8 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML
 > ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL)
 > ## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain
+  Saya sudah mencoba dengan menggunakan perintah ping untuk mendapatkan informasi tentang alamat IP dari domain.
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/fdb7a8e3-a47a-45ee-80e8-bc4cac9bfd4e)
 > ## 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript
 > ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML
 > ## 18. Mencoba Pembuatan File JSON
@@ -93,6 +95,9 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v]
 > ## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] 
 > ## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v]
+  IEE (https://ieeexplore.ieee.org/document/10049295) 
+  Menceritakan bahwasanya penggunaan sistem radar dalam pemantauan kesehatan beberapa tahun terakhir ini telah mencuri perhatian yang besar. Dalam artikel ini tutorial pemantauan tanda-tanda vital berbasis radar disediakan. 
+  Science Direct (https://www.sciencedirect.com/journal/journal-of-experimental-child-psychology/vol/239/suppl/C)
 > ## 41. Menonton Video Presentasi Tugas Akhir Informatika
 > ## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati
   Saya sudah melakukan eksplorasiterhadap profesi terkait Informatika, termasuk dari gambar yang pernah dikirimkan oleh Bapak Insan 
