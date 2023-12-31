@@ -89,16 +89,24 @@ Beberapa konsep utama dari computational thinking yaitu :
   Web browser menyediakan banyak fitur tambahan, termasuk bookmarking, riwayat penjelajahan, pengaturan, dan ekstensi yang dapat meningkatkan pengalaman pengguna. Sebagian besar browser modern memungkinkan kita untuk bisa memeriksa dan menganalisis elemen halaman web menggunakan fitur "Inspect" atau "Inspect Element". Ini memungkinkan kita untuk bisa melihat dan memahami struktur HTML yang membentuk halaman web.
 ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/58937a4c-8a2e-4146-8720-054f06cdf41b)
 > ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL)
-  
+  URL atau singkatan dari Uniform Resource Locator rangkaian situs web yang tertera berisikan nama folder, protokol bahasa dan sebagainya yang menuju ke WWW (World Wide Web). Saya akan menggunakan website https://salam.uinsgd.ac.id/dashboard untuk mencari apa saja komponen yang berada di URL ini. yaitu :
+  - Protokol : Protokol dalam URL menentukan cara pertukaran atau transfer data melalui jaringan komputer. Pada URL ini protokol yang digunakan adalah https
+  - Nama Host Komputer (Hostname) : URL ini menunjukkan lokasi server yang menyimpan konten yang ingin diakses. nama host pada URL ini yaitu salam.uinsgd
+  - Ekstensi Domain : Menunjukkan jenis domain. Pada URL ini domainnya menggunakan ac.id
 > ## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain
   Saya sudah mencoba dengan menggunakan perintah ping untuk mendapatkan informasi tentang alamat IP dari domain.
   ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/fdb7a8e3-a47a-45ee-80e8-bc4cac9bfd4e)
 > ## 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript
+  berikut proses pembuatan halaman web yang sedang saya buat
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/d9a880a9-ecfc-4229-8ebc-2644b506abd6) 
 > ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML
+  https://auraghifarani.wordpress.com/2023/12/31/search-engine-optimization-seo/
 > ## 18. Mencoba Pembuatan File JSON
   https://github.com/Auraghifarani/Jawaban-UAS/blob/main/file.json
 > ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML
+  ![Screenshot 2023-12-31 174658](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/c4d530b1-53ee-4944-badc-de1e3cdd4aea)
 > ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service
+  
 > ## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman
 > ## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome)
 > ## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure)
