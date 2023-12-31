@@ -53,13 +53,43 @@ Beberapa konsep utama dari computational thinking yaitu :
   Saya sudah mencoba Algoritma Bubble Sort menggunakan java 
   ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/ca16ed82-4d53-4738-8612-3925c78321c2)
 > ## 8. Mencoba dan Mendemonstrasikan Penggunaan IDE
+  Setelah saya melakukan eksplorasi, saya bisa menyimpulkan bahwasanya IDE sangat berperan penting dalam mengembangkan perangkat lunak. IDE yang saat ini sering saya gunakan yaitu VS Code atau biasa disebut Visual Studio Code, yaitu editor source code yang dikembangkan oleh microsoft untuk sistem operasi windows, macOS dan linux. Perangkat ini gratis, dirancang agar bisa membantu menulis maupun mengedit kode dalam berbagai bahasa pemrograman. 
 > ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Hacker Rank
   - https://www.hackerrank.com/profile/ghifarania
 > ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser
 > ## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.)
+  ![Screenshot 2023-12-31 120027](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/94d533b4-1976-4b8e-b4b0-a81928a658ca)
 > ## 12. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.)
+  Jadi Dbeaver adalah aplikasi manajemen database berbasis GUI. Adapun langkah untuk query database menggunakan dbeaver yaitu :
+1. Instal DBeaver:
+- Unduh dan instal DBeaver dari situs web resminya: DBeaver.io.
+- Ikuti petunjuk instalasi yang sesuai dengan sistem operasi.
+2. Buka Koneksi ke Basis Data:
+- Buka DBeaver dan buat koneksi ke basis data yang ingin ditanyakan. Klik pada ikon "New Database Connection" di toolbar atau pilih menu "Database" > "New Database Connection".
+- Pilih jenis basis data yang sesuai (MySQL, PostgreSQL, dll.) dan masukkan detail koneksi seperti nama host, port, nama basis data, nama pengguna, dan kata sandi.
+3. Terhubung ke Basis Data:
+- Setelah konfigurasi koneksi selesai, klik "Finish" atau "Test Connection" untuk memastikan bahwa koneksi berhasil.
+4. Buka SQL Editor:
+- Setelah terhubung ke basis data, pilih basis data yang ingin ditanyakan di panel Navigator.
+- Klik kanan pada basis data tersebut dan pilih "SQL Editor" atau "New SQL Editor" untuk membuka jendela editor SQL.
+5. Tulis Kueri SQL:
+- Menulis kueri SQL di dalam jendela editor.
+6. Jalankan Kueri:
+- Setelah menulis kueri, kueri tersebut dapat dijalankan dengan mengklik tombol "Run SQL" atau menggunakan pintasan keyboard (biasanya F5).
+7. Lihat Hasil Kueri: 
+- Hasil kueri akan ditampilkan di bagian bawah jendela editor SQL. Hasil kueri dapat dilihat, disortir, dan menyaring data jika diperlukan.
+8. Simpan Kueri:
+- Jika ingin menyimpan kueri untuk digunakan kembali, kueri dapat disimpan sebagai file atau disimpan dalam proyek DBeaver.
+![Screenshot 2023-12-31 120027](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/5b1096d5-9b14-4fc2-9aa7-481e5110055b)
 > ## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML
+  Mengakses halaman website HTML menggunakan web browser adalah cara umum untuk menampilkan dan berinteraksi dengan konten di internet. Adapun langkah langkahnya sebagai berikut :
+  1. membuka web browser
+  2. masukkan alamat URL lengkap dari halaman web yang ingin diakses
+  3. Setelah halaman web selesai dimuat, browser akan menampilkan konten HTML. Halaman web akan ditampilkan sesuai dengan desain dan struktur yang telah diatur oleh pengembang.
+  Web browser menyediakan banyak fitur tambahan, termasuk bookmarking, riwayat penjelajahan, pengaturan, dan ekstensi yang dapat meningkatkan pengalaman pengguna. Sebagian besar browser modern memungkinkan kita untuk bisa memeriksa dan menganalisis elemen halaman web menggunakan fitur "Inspect" atau "Inspect Element". Ini memungkinkan kita untuk bisa melihat dan memahami struktur HTML yang membentuk halaman web.
+![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/58937a4c-8a2e-4146-8720-054f06cdf41b)
 > ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL)
+  
 > ## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain
   Saya sudah mencoba dengan menggunakan perintah ping untuk mendapatkan informasi tentang alamat IP dari domain.
   ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/fdb7a8e3-a47a-45ee-80e8-bc4cac9bfd4e)
