@@ -154,12 +154,21 @@ Postman mendukung berbagai metode HTTP yang umum digunakan untuk melakukan permi
   ![Screenshot 2024-01-01 120647](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/baf11c70-c396-4b35-8606-5001d00f558a)
   ![Screenshot 2024-01-01 120657](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/75147cf2-564e-4939-80e5-304a31be29e7)
 > ## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v]
-  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/e56cf2e1-5a62-4181-9059-5a176be5d949)
+  Saya sudah mencoba Web Tool AI Discriminative Image Classification di hugging face berikut hasilnya :
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/c5c69eb6-29ae-477a-92f0-e35c09aad941)
 > ## 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v]
-  
+  Saya sudah mencoba Web Tool AI Generative Text to Image di hugging face berikut hasilnya :
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/1ae0df1c-568a-45be-9a80-5f838d2570b3)
 > ## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v]
+  Saya mencoba Model Machine Learning menggunakan Google Colab berikut hasilnya :
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/7dbdf21d-d189-4b40-baae-de61a00face6)
 > ## 32. Mencoba Data Visualization Dengan Tools [v]
+  Data visualization adalah representasi grafis dari informasi dan data menggunakan elemen visual seperti grafik, diagram, peta, dan visualisasi lainnya. Tujuan dari data visualization adalah untuk mengubah data yang kompleks dan besar menjadi format yang dapat dipahami secara visual, sehingga memudahkan analisis, pemahaman, dan pengambilan keputusan. Beberapa alat dan bahasa pemrograman seperti Tableau, Power BI, Python (dengan matplotlib, seaborn, dan plotly), R, dan D3.js sering digunakan untuk membuat data visualization. Data visualization menjadi alat yang sangat efektif dalam membantu orang untuk memahami dan menggali wawasan dari data yang mereka miliki.
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/0a16ce7f-6ddf-4cf9-9eab-fa5e35bdcff9)
 > ## 33. Mencoba Data Visualization Dengan Code [v]
+  Saya mencobanya menggunakan google colab berikut hasilnya :
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/2380dd5c-99cf-4cd3-a25c-72c19073d996)
+  https://colab.research.google.com/drive/1nYPb7mZ497WzbGsPbwQlH_aDeUj4F6gi?usp=sharing
 > ## 34. Mendaftar dan Mencoba Eksplorasi HuggingFace [v]
   https://huggingface.co/aura15
 > ## 35. Mendaftar dan Mencoba Eksplorasi Kaggle [v]
@@ -167,14 +176,26 @@ Postman mendukung berbagai metode HTTP yang umum digunakan untuk melakukan permi
   ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/fe278641-0114-4dcd-bdf8-799137cc9de8)
   ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/b41586e4-9670-4d8d-aca9-e76c5b8c79fb)
 > ## 36. Mencoba Protokol Komunikasi IoT (MQTT) [v]
+  MQTT (Message Queuing Telemetry Transport) adalah protokol komunikasi ringan yang dirancang untuk digunakan pada kondisi jaringan yang tidak dapat diandalkan atau berkecepatan rendah. Protokol ini dikembangkan oleh IBM pada tahun 1999 dan menjadi salah satu protokol standar dalam Internet of Things (IoT). Saya sudah mencobanya secara bersama-sama kelas A.
+  https://mqtt.org/
 > ## 37. Mencoba Memproses File CSV Menggunakan Google Colab [v]
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/9bb91892-2892-45ab-ab85-2daf1d8451de)
+  https://colab.research.google.com/drive/10H5yXqKg9qoXtOPojY_p4y5LMx5m9cj8?usp=sharing
 > ## 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v]
-> ## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] 
+  https://colab.research.google.com/drive/1elRybANFbgTjyOgIiw24Y8rovVkd7DM_?usp=sharing
+  ![Screenshot 2024-01-01 143915](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/41b94285-16a7-44ba-b2ad-6e40c332a370)
+  ![Screenshot 2024-01-01 143936](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/694a3db5-3ded-409e-a1d5-b326829c809b)
+> ## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v]
+  Jurnal adalah publikasi periodik yang memuat artikel ilmiah dan riset yang ditulis oleh para peneliti atau ahli dalam bidang ilmu tertentu. Jurnal biasanya dipublikasikan oleh lembaga akademis, organisasi riset, atau penerbit ilmiah. Artikel yang dimuat dalam jurnal melewati proses peer review, artinya jurnal diulas dan dievaluasi oleh para pakar independen dalam bidang tersebut sebelum diterbitkan. Jurnal ilmiah memiliki standar keakuratan dan kredibilitas yang tinggi di dalam komunitas ilmiah.
+  Konferensi adalah acara ilmiah di mana para peneliti, akademisi, dan praktisi berkumpul untuk menyajikan, mendiskusikan, dan berbagi hasil penelitian terbaru. Konferensi dapat melibatkan presentasi oral, sesi poster, dan diskusi panel. Artikel yang diterima untuk konferensi juga harus melalui proses review, meskipun seringkali proses ini lebih ringkas daripada proses peer review untuk jurnal. Konferensi menyediakan platform untuk berbagi ide, mendapatkan umpan balik, dan membangun jaringan di antara anggota komunitas ilmiah.
+  Artikel ilmiah merujuk pada tulisan yang berisi hasil penelitian atau pemikiran kritis tentang suatu topik tertentu. Artikel ilmiah dapat muncul dalam berbagai bentuk, termasuk di dalam jurnal, konferensi, buku, dan sumber-sumber ilmiah lainnya. Artikel ilmiah memiliki struktur tertentu, seperti abstrak, pendahuluan, metode, hasil, diskusi, dan daftar pustaka. Tujuan artikel ilmiah yaitu untuk  menyebarkan informasi yang dapat diverifikasi dan dipahami oleh komunitas ilmiah.
+  Grade jurnal merujuk pada tingkat prestise atau kualitas suatu jurnal ilmiah. Terdapat berbagai metrik dan sistem penilaian untuk mengukur grade jurnal, dan salah satu yang paling umum digunakan adalah Impact Factor (IF). Impact Factor dihitung berdasarkan jumlah kutipan rata-rata artikel dalam jurnal selama periode waktu tertentu. Jurnal dengan Impact Factor yang tinggi cenderung dianggap lebih prestisius, meskipun ada kritik terhadap penggunaan IF sebagai satu-satunya metrik penilaian. Selain itu, ada pula indeks dan daftar seperti Scopus, ISI Web of Science, dan SJR (Scimago Journal Rank) yang digunakan sebagai referensi untuk menilai grade jurnal.
 > ## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v]
   IEE (https://ieeexplore.ieee.org/document/10049295) 
   Menceritakan bahwasanya penggunaan sistem radar dalam pemantauan kesehatan beberapa tahun terakhir ini telah mencuri perhatian yang besar. Dalam artikel ini tutorial pemantauan tanda-tanda vital berbasis radar disediakan. 
   Science Direct (https://www.sciencedirect.com/journal/journal-of-experimental-child-psychology/vol/239/suppl/C)
 > ## 41. Menonton Video Presentasi Tugas Akhir Informatika
+  
 > ## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati
   Saya sudah melakukan eksplorasiterhadap profesi terkait Informatika, termasuk dari gambar yang pernah dikirimkan oleh Bapak Insan 
   ![Profesi terkait Teknik Informatika](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/7df89bf8-5516-4d5d-9d27-1adcb959f385)
