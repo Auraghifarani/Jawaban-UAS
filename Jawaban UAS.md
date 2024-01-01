@@ -57,6 +57,7 @@ Beberapa konsep utama dari computational thinking yaitu :
 > ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Hacker Rank
   - https://www.hackerrank.com/profile/ghifarania
 > ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser
+  https://github.com/Auraghifarani/Auraghifarani/blob/efce11e773e153fcbeafe52246de8af2432a68ba/Job.Interview.md
 > ## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.)
   ![Screenshot 2023-12-31 120027](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/94d533b4-1976-4b8e-b4b0-a81928a658ca)
 > ## 12. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.)
@@ -187,15 +188,19 @@ Postman mendukung berbagai metode HTTP yang umum digunakan untuk melakukan permi
   ![Screenshot 2024-01-01 143936](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/694a3db5-3ded-409e-a1d5-b326829c809b)
 > ## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v]
   Jurnal adalah publikasi periodik yang memuat artikel ilmiah dan riset yang ditulis oleh para peneliti atau ahli dalam bidang ilmu tertentu. Jurnal biasanya dipublikasikan oleh lembaga akademis, organisasi riset, atau penerbit ilmiah. Artikel yang dimuat dalam jurnal melewati proses peer review, artinya jurnal diulas dan dievaluasi oleh para pakar independen dalam bidang tersebut sebelum diterbitkan. Jurnal ilmiah memiliki standar keakuratan dan kredibilitas yang tinggi di dalam komunitas ilmiah.
+  
   Konferensi adalah acara ilmiah di mana para peneliti, akademisi, dan praktisi berkumpul untuk menyajikan, mendiskusikan, dan berbagi hasil penelitian terbaru. Konferensi dapat melibatkan presentasi oral, sesi poster, dan diskusi panel. Artikel yang diterima untuk konferensi juga harus melalui proses review, meskipun seringkali proses ini lebih ringkas daripada proses peer review untuk jurnal. Konferensi menyediakan platform untuk berbagi ide, mendapatkan umpan balik, dan membangun jaringan di antara anggota komunitas ilmiah.
+  
   Artikel ilmiah merujuk pada tulisan yang berisi hasil penelitian atau pemikiran kritis tentang suatu topik tertentu. Artikel ilmiah dapat muncul dalam berbagai bentuk, termasuk di dalam jurnal, konferensi, buku, dan sumber-sumber ilmiah lainnya. Artikel ilmiah memiliki struktur tertentu, seperti abstrak, pendahuluan, metode, hasil, diskusi, dan daftar pustaka. Tujuan artikel ilmiah yaitu untuk  menyebarkan informasi yang dapat diverifikasi dan dipahami oleh komunitas ilmiah.
+  
   Grade jurnal merujuk pada tingkat prestise atau kualitas suatu jurnal ilmiah. Terdapat berbagai metrik dan sistem penilaian untuk mengukur grade jurnal, dan salah satu yang paling umum digunakan adalah Impact Factor (IF). Impact Factor dihitung berdasarkan jumlah kutipan rata-rata artikel dalam jurnal selama periode waktu tertentu. Jurnal dengan Impact Factor yang tinggi cenderung dianggap lebih prestisius, meskipun ada kritik terhadap penggunaan IF sebagai satu-satunya metrik penilaian. Selain itu, ada pula indeks dan daftar seperti Scopus, ISI Web of Science, dan SJR (Scimago Journal Rank) yang digunakan sebagai referensi untuk menilai grade jurnal.
 > ## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v]
   IEE (https://ieeexplore.ieee.org/document/10049295) 
   Menceritakan bahwasanya penggunaan sistem radar dalam pemantauan kesehatan beberapa tahun terakhir ini telah mencuri perhatian yang besar. Dalam artikel ini tutorial pemantauan tanda-tanda vital berbasis radar disediakan. 
   Science Direct (https://www.sciencedirect.com/journal/journal-of-experimental-child-psychology/vol/239/suppl/C)
 > ## 41. Menonton Video Presentasi Tugas Akhir Informatika
-  
+  https://youtu.be/7rSyCTLLPT8?si=vdKFTLIYy61Tli76
+  Video ini merupakan video tugas akhir dari salah satu mahasiswi di Universitas Bina Sarana Informatika, tugas akhir tersebut berjudul "Perencanaan Sistem Informasi Penjualan pada Toko Legenda Pet Shop". Kakak ini mengidentifikasi masalah dalam bidang produk, grooming, dan promosi. 
 > ## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati
   Saya sudah melakukan eksplorasiterhadap profesi terkait Informatika, termasuk dari gambar yang pernah dikirimkan oleh Bapak Insan 
   ![Profesi terkait Teknik Informatika](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/7df89bf8-5516-4d5d-9d27-1adcb959f385)
