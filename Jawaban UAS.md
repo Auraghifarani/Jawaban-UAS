@@ -105,20 +105,58 @@ Beberapa konsep utama dari computational thinking yaitu :
   https://github.com/Auraghifarani/Jawaban-UAS/blob/main/file.json
 > ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML
   ![Screenshot 2023-12-31 174658](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/c4d530b1-53ee-4944-badc-de1e3cdd4aea)
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/50d87e42-2178-409c-86e3-cf221859b62b)
 > ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service
-  
+  ![Screenshot 2023-12-31 174658](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/b9cd9cea-98e3-4e5f-a399-973ba62fb399)
 > ## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman
+  Postman API dirancang untuk membantu pengembang dalam membangun, menguji, dan mendokumentasikan API. API adalah sekumpulan aturan dan protokol yang memungkinkan berbagai aplikasi berkomunikasi satu sama lain. Postman adalah alat pengembangan yang dirancang khusus untuk bekerja dengan API (Application Programming Interface). API adalah cara bagi perangkat lunak untuk berkomunikasi satu sama lain. Postman menyediakan antarmuka pengguna grafis yang mempermudah pembuatan, uji, dan dokumentasi API. Ada beberapa fitur utama dari postman yaitu : 
+  1. Pembuatan dan pengelolaan permintaan HTTP
+  2. Organisasi permintaan dalam koleksi
+  3. Pengujian API (Testing)
+  4. Simulasi lingkungan (Environtment)
+  5. Pelacakan riwayat dan kolaborasi
+Postman mendukung berbagai metode HTTP yang umum digunakan untuk melakukan permintaan (request) dan inspeksi resource data. Berikut adalah beberapa metode yang sering digunakan:
+- GET: Metode ini digunakan untuk meminta data dari suatu resource. Ini adalah metode baca-only yang tidak mengubah data di server.
+- POST: Metode ini digunakan untuk mengirim data ke server untuk membuat resource baru. Biasanya digunakan untuk mengirim data formulir atau menyimpan data ke server.
+- PUT: Metode ini digunakan untuk memperbarui resource di server. Data yang dikirim dengan metode PUT biasanya adalah data lengkap yang akan menggantikan resource yang ada.
+- PATCH: Metode ini digunakan untuk memperbarui resource di server, tetapi hanya sebagian dari resource yang diperbarui. PATCH berguna saat Anda hanya perlu memperbarui beberapa field data.
+- DELETE: Metode ini digunakan untuk menghapus resource di server.
+- OPTIONS: Metode ini digunakan untuk mendapatkan informasi tentang metode-metode yang didukung oleh suatu resource, atau informasi tambahan tentang resource itu sendiri.
+- HEAD: Metode ini serupa dengan GET, tetapi hanya mengembalikan header respons dan tidak body. Ini digunakan untuk mendapatkan informasi header tanpa mengunduh seluruh resource.
+  ![Screenshot 2024-01-01 104621](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/5281b167-340b-4cc1-b711-411edd659572)
+  ![Screenshot 2024-01-01 104839](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/617b9c41-3b87-4475-ae9b-cdf6195a677c)
 > ## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome)
+  Developer Tools pada web browser adalah set alat yang dirancang untuk membantu pengembang web menganalisis, menguji, dan memperbaiki situs web. Alat ini menyediakan berbagai fungsi yang sangat berguna bagi para pengembang web dalam proses pengembangan dan debugging. Berikut adalah beberapa kegunaan utama Developer Tools pada web browser:
+  - Inspect Element: Dengan menggunakan "Inspect" atau "Inspect Element," pengembang dapat melihat dan mengelola struktur HTML dan CSS halaman web secara real-time. Ini memungkinkan mereka untuk mengidentifikasi dan memodifikasi elemen tertentu untuk melihat efek perubahan secara langsung.
+  - Console: Developer Tools menyediakan konsol JavaScript yang memungkinkan pengembang untuk mengevaluasi ekspresi JavaScript, menangkap pesan kesalahan, dan memunculkan pesan log. Ini sangat membantu dalam debugging dan pengembangan JavaScript.
+  - Network Monitoring: Alat ini memungkinkan pengembang untuk memantau permintaan dan tanggapan HTTP, melihat waktu muat halaman, dan mengidentifikasi sumber daya yang membutuhkan waktu lama untuk diunduh. Hal ini membantu dalam mengoptimalkan kinerja situs web.
+  - Source Code Debugging: Pengembang dapat menetapkan titik henti, menginspeksi variabel, dan melacak eksekusi kode JavaScript menggunakan fitur debugging. Ini membantu dalam mengidentifikasi dan memperbaiki masalah logika dan kesalahan pemrograman.
+  - Application Panel: Menyediakan informasi tentang sumber daya aplikasi seperti Cache, Local Storage, dan Cookies. Pengembang dapat mengelola dan menghapus data ini untuk keperluan pengujian dan debugging.
+    ![Screenshot 2024-01-01 110449](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/bdfcb13b-59f3-4e3e-814d-039564b8d5e0)
 > ## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure)
+  Amazon Web Services (AWS) adalah platform komputasi awan yang menyediakan berbagai layanan infrastruktur dan komputasi yang dapat diandalkan, scalable, dan hemat biaya. AWS dimiliki oleh Amazon.com dan diluncurkan pada tahun 2006, menjadi salah satu penyedia layanan cloud computing terkemuka di dunia. Salah satu layanan dari AWS adalah Analytics Services. Jadi, AWS memiliki layanan seperti Amazon Kinesis untuk streaming data, AWS Glue untuk ETL (extract, transform, load), dan Amazon Athena untuk analisis data di S3 menggunakan SQL.
+  ![Screenshot 2024-01-01 111940](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/b3eae7ba-a254-42e0-a0e0-a40297998bb1)
 > ## 24. Mencoba Penggunaan Content Management System (Wordpress)
+  Saya sudah mencoba penggunaan content management system Wordpress, wordpress bisa membantu saya membuat dan mengelola website tanpa coding. Dengan wordpress saya bisa menata tampilan, menambahkan fitur dan media, dan membuat suatu konten di website dengan mudah. 
+  https://ifkelasa.wordpress.com/2023/12/17/tips-menghafal-al-quran-dengan-mudah/
 > ## 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video)
+  Saya mendemonstrasikan akses konten multimedia dengan capcut dan tiktok. Capcut dirancang untuk memudahkan pengguna dalam mengedit dan membuat video. sedangkan TikTok merupakan platform media sosial yang dirancang untuk membuat, mengedit, dan membagikan video pendek berdurasi 15 detik sampai tiga menit. 
+  https://mobile.capcutshare.com/s/Zs8j1Bgxu/
 > ## 26. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v]
   Saya biasanya menggunakan Capcut dan Lightroom
   ![Aurakuuu](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/add926a2-b19e-41e7-a91e-ed26023a25a5)
 > ## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v]
+  Logo adalah bahasa pemrograman yang dirancang untuk tujuan pendidikan, dengan fokus pada pembelajaran yang berpusat pada siswa dan eksplorasi. Saya mencoba mengeksplorasinya menggunakan website https://netlogoweb.org/launch#https://netlogoweb.org/assets/modelslib/Sample%20Models/Art/Fireworks.nlogo
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/36250e63-d6b2-4971-abc9-6bf18bf580d5)
 > ## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]
-> ## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v] 
+  https://colab.research.google.com/drive/178PGWUvLTSeDozF_gVP4TUdikuCj4IxR?usp=sharing
+  Berikut hasil gambarnya :
+  ![Screenshot 2024-01-01 120647](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/baf11c70-c396-4b35-8606-5001d00f558a)
+  ![Screenshot 2024-01-01 120657](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/75147cf2-564e-4939-80e5-304a31be29e7)
+> ## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v]
+  ![image](https://github.com/Auraghifarani/Jawaban-UAS/assets/144779697/e56cf2e1-5a62-4181-9059-5a176be5d949)
 > ## 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v]
+  
 > ## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v]
 > ## 32. Mencoba Data Visualization Dengan Tools [v]
 > ## 33. Mencoba Data Visualization Dengan Code [v]
